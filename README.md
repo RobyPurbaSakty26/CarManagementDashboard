@@ -13,8 +13,8 @@ Ini adalah tugas untuk memenuhi challenge 5 dalam bootcamp Binar dengan desai fi
 
 ## Running Server
 
-    cd frod-tend
-    npm start
+    cd frod-end
+    nodemon index.js
 
 Server frontend secara default akan berjalan di `http://localhost:8000/`  
 Port server bisa diganti di dalam file `frond-end/index.js`
